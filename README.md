@@ -2,8 +2,7 @@
 <html>
 <h1>
 10/14/23 Hackathon Project:
-Calorie Counter
-  
+PicToPlate
 </h1>
 <h2>
   Team LiquidDeath: Aarush, Ganesh, Aditya
