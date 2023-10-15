@@ -6,7 +6,7 @@ Calorie Counter
   
 </h1>
 <h2>
-  UCSDCoders: Aarush, Ganesh, Aditya
+  Team LiquidDeath: Aarush, Ganesh, Aditya
 </h2>
 
 
